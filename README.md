@@ -1,7 +1,10 @@
-This application can scan any two-dimensional code and retrieve data from the two-dimensional code.
-You can also generte your favorite two-dimensional codes, and you can get data through the two-dimensional codes in 
-the album without scanning.
+Make & scan qr code
 
+Features:
+-- can scan any qr code and retrieve data from the qr code.
+-- you can input the information you want to write to generate a new qr code.
+-- you can get the data through the picture with qr code in the album.
+A simple, convenient and fast applet.
 
 ![image](https://github.com/wangyuanyuan166/scode/blob/master/Resource/s01.png)
 ![image](https://github.com/wangyuanyuan166/scode/blob/master/Resource/s02.png)
